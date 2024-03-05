@@ -14,6 +14,10 @@ conda activate napari-env
 
 install napari
 ```
+conda install -c conda-forge napari pyqt
+```
+or
+```
 pip install "napari[all]"
 ```
 
