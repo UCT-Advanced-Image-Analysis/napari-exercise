@@ -42,6 +42,11 @@ Run napari assistant.
 naparia
 ```
 
+## Exporting rnviroment
+```
+conda env export > environment.yml
+```
+
 ## Bonus: Jupyter Lab
 ```
 conda install mamba -c conda-forge
