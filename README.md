@@ -12,6 +12,11 @@ Activate it
 conda activate napari-env
 ```
 
+install napari
+```
+pip install "napari[all]"
+```
+
 Run/open napari
 ```
 napari
